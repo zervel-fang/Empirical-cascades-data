@@ -5,4 +5,4 @@ We use three empirical cascades data(retweet data) in our paper, they are Twitte
 
 The link of the Twitter 2011 and Twitter-COVID datasets as following, http://www-levich.engr.ccny.cuny.edu/~xteng/tweet\%20data.rar}, https://www.aminer.cn/influencelocality
 
-For the Twitter-COVID dataset, it's a project from github, which will crawl the retweets whose content is correlated with COVID, but the project only provdides the tweet-id, so we need to crawl the tweets by ourselves. The link of the github project as following, https://github.com/thepanacealab/covid19_twitter. 
+For the Twitter-COVID dataset, it's a project from github, which crawled the retweets whose content is correlated with COVID, but the project only provdides the tweet-id, so we need to crawl the tweets by ourselves. The link of the github project as following, https://github.com/thepanacealab/covid19_twitter. 
